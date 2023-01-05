@@ -1,0 +1,44 @@
+Neujahr:
+  month: 1
+  day: 1
+Heilige Drei Könige:
+  month: 1
+  day: 6
+Ostersonntag:
+  func: gauss_easter_adapted
+Ostermontag:
+  base_name: Ostersonntag
+  offset: 1
+Staatsfeiertag:
+  month: 5
+  day: 1
+Christi Himmelfahrt:
+  base_name: Ostersonntag
+  offset: 39
+Pfingstsonntag:
+  base_name: Ostersonntag
+  offset: 49
+Pfingstmontag:
+  base_name: Ostersonntag
+  offset: 50
+Fronleichnam:
+  base_name: Ostersonntag
+  offset: 60
+Mariä Himmelfahrt:
+  month: 8
+  day: 15
+Nationalfeiertag:
+  month: 10
+  day: 26
+Allerheiligen:
+  month: 11
+  day: 1
+Mariä Empfängnis:
+  month: 12
+  day: 8
+Christtag:
+  month: 12
+  day: 25
+Stefanitag:
+  month: 12
+  day: 26
